@@ -7,8 +7,8 @@ __*adhesiondynamicstirf.m*__ measures the time shift in the accumulation of two 
 
 https://www.openmicroscopy.org/bio-formats/downloads/
 
-*__ImregStack.m__* corrects the image stack for stage-drift using translation transformation.
+*__ImregStack.m__* corrects the image stack for stage-drifting using translation transformation.
 
 *__progressText.m__* is a helper function developped by the Danuser lab to show progress of a loop as text on the screen. It is employed by both *adhesiondynamicstirf()* and *ImRegStack()*.
 
-*__DemoFATIRF.tif__* is an example TIRF dataset that can be used for demo purposes.
+*__DemoFATIRF.tif__* is an example of TIRF dataset that can be used for demo purposes.
