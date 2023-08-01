@@ -3,7 +3,11 @@
 
 __Cas-integrin-paper-2023-Cooper-lab__ contains MATLAB scripts used to quantify the time shift between red (CasmSc) and green (YFP-VCL, b1-EctopH, ITGB1GFP or CrkmGL) cluster formation  from TIRF microscopy datasets described in Kumar *et al*:
 
-https://doi.org/10.1101/2022.12.19.521109
+**Cas phosphorylation regulates focal adhesion assembly.**
+
+Kumar S, Stainer A, Dubrulle J, Simpkins C, Cooper JA.
+
+Elife. 2023 Jul 25;12:e90234. doi: 10.7554/eLife.90234. PMID: 37489578 
 
 The pipeline involves the following steps: drift correction, image preprocessing and denoising, cluster segmentation and tracking, intensities extraction and normalization, and signal analysis.
 
